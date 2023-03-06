@@ -21,6 +21,7 @@ public class PositiveElements {
             sumOfAllElements = sumOfAllElements + arr[i];
         }
 
+        //output's will be 
         System.out.println("Sum of positive integers in array is" + sumOfAllElements);
         System.out.println("Sum of positive integers in array is" + sumofPositiveEle);
     }
